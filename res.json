@@ -1,0 +1,74 @@
+[
+  {
+    "name": "1539499416_1.jpg",
+    "parent": "test",
+    "type": "file",
+    "size": 40895
+  },
+  {
+    "name": "1539499503_25.jpg",
+    "parent": "test",
+    "type": "file",
+    "size": 47815
+  },
+  {
+    "name": "1539499429_14.jpg",
+    "parent": "dir1",
+    "type": "file",
+    "size": 36666
+  },
+  {
+    "name": "1661254716_j-2.jpg",
+    "parent": "dir1",
+    "type": "file",
+    "size": 249364
+  },
+  {
+    "name": "1564314076_7.jpg",
+    "parent": "anotherone",
+    "type": "file",
+    "size": 107482
+  },
+  {
+    "name": "andanotherone",
+    "parent": "anotherone",
+    "type": "directory",
+    "size": 0
+  },
+  {
+    "name": "anotherone",
+    "parent": "dir1",
+    "type": "directory",
+    "size": 107482
+  },
+  {
+    "name": "dir1",
+    "parent": "test",
+    "type": "directory",
+    "size": 393512
+  },
+  {
+    "name": "1539499405_3.jpg",
+    "parent": "dir2",
+    "type": "file",
+    "size": 30789
+  },
+  {
+    "name": "1539499416_9.jpg",
+    "parent": "dir2",
+    "type": "file",
+    "size": 25127
+  },
+  {
+    "name": "dir2",
+    "parent": "test",
+    "type": "directory",
+    "size": 55916
+  },
+  {
+    "name": "test",
+    "parent": ".",
+    "type": "directory",
+    "size": 538138
+  }
+]
